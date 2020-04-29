@@ -1,5 +1,5 @@
-claat export 18c1582hiapOGwhCoeNBIGhtX3QroNmjJvnPc_25eOGs
+claat export 1lV3fqgdWlWI0Goge-w6qcM-xI7MM4dZHdJkmRtoERJY
 rm -rf ./public/img
-mv ./rizomm-flutter/* ./public
-rm -rf ./rizomm-flutter
+mv ./flutter-chat-codelab/* ./public
+rm -rf ./flutter-chat-codelab
 firebase deploy --only hosting

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057225952480",
+    "firebase_url": "https://flutter-chat-codelab.firebaseio.com",
+    "project_id": "flutter-chat-codelab",
+    "storage_bucket": "flutter-chat-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057225952480:android:999e698f3506fb30e01485",
+        "android_client_info": {
+          "package_name": "com.eyeo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057225952480-461jgcb6v6dgk6fievfdgrhv9trfb2en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DQjk1OQszRjwUnjUFqe7_De9xVahfuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057225952480-461jgcb6v6dgk6fievfdgrhv9trfb2en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
